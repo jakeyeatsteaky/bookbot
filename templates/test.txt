@@ -1,0 +1,25 @@
+Test Program
+<W>
+<D>
+snatch:3:3:75
+bsquat:5:5:75
+jerk:3:3:80
+<D/>
+<D>
+bench:5:5:80
+pullup:3:10:BW
+dbpr:3:10:10
+<D/>
+<W/>
+<W>
+<D>
+jerk:3:3:85
+snatch:3:3:45
+bsquat:2:3:90
+<D/>
+<D>
+bench:3:3:90
+bsquat:5:5:76
+<D/>
+<W/>
+<Program/>
